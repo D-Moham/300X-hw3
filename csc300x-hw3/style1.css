@@ -1,0 +1,48 @@
+html{
+    background-color: rgba(13, 23, 52);
+}
+
+nav {
+    text-align: center;
+    background-color: black;
+    padding: 14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(13, 23, 52);
+
+}
+
+#li1 {
+    display: inline;
+}
+
+#lia {
+    color: rgba(251, 170, 23);
+}
+
+header {
+    background-color: rgba(13, 23, 52);
+    color: rgba(251, 170, 23);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: auto;
+}
+
+#introduction {
+    text-align: center;
+    text-decoration: underline;
+    width: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    border-style: solid;
+    border-radius: 1cap;
+    border-color: rgba(251, 170, 23);
+}
+
+#food{
+    height: 150px;
+    width: auto;
+    border: 10px;
+    border-color: antiquewhite;
+    border-style: solid;
+
+}
